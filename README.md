@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome!&animation=fadeIn"/>
+</p>
+
+
+[![Soheil's GitHub stats](https://github-readme-stats.vercel.app/api?username=soheil-moradi)](https://github.com/soheil-moradi)
 ## Hi there 👋
 
 <!--
